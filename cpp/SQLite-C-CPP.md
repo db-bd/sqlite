@@ -6,7 +6,7 @@
 * Download 32 Bit DLL or 64 Bit DLL
 * Say Visual Studio Project is 32 Bit Version so we Download 32 Bit version of DLL
 * Navigate to DLL Directory
-* Run Following Command and Create Header File 
+* Run Following Command & Create sqliteX.lib 
   ```sh
   lib /DEF:sqlite3.def /OUT:sqlite3.lib /MACHINE:x86 [32 Bit]
   lib /DEF:sqlite3.def /OUT:sqlite3.lib /MACHINE:x64 [64 Bit]
