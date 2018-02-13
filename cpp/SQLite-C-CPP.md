@@ -25,7 +25,7 @@
   Project Properties -> Configuration Properties -> Linker -> Input -> Additional Dependencies -> sqlite3.lib
 ```
 * Copy sqlite3.dll to Project Debug Folder Where Binary is Created
-* Congrates You have successfully Create Project Environment
+* Congratulation You have successfully Created Project Environment
 
 #### Run a Test Code
 ```c
