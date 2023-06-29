@@ -1,2 +1,2 @@
 # SQLite Database Manipulation
-* [C/C++](https://github.com/db-bd/SQLite/blob/master/cpp/SQLite-C-CPP.md)
+* [C/C++](https://github.com/db-bd/sqlite/blob/master/cpp/sqlite-cpp.md)
